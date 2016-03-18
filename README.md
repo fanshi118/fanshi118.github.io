@@ -1,1 +1,1 @@
-personal website using the minimalist template provided by orderedlist
+personal website using the minimal template provided by orderedlist
