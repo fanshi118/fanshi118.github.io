@@ -10,7 +10,7 @@ body {
 
 h1, h2{
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 10px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -56,6 +56,11 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
+}
+
+.view {
+    margin-top:1em;
+    margin-bottom: -2em;
 }
 
 blockquote {
