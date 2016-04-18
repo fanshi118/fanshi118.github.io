@@ -29,10 +29,6 @@ h2 {
   color:#393939;
 }
 
-h3, h4, h5, h6 {
-  color:#494949;
-}
-
 a {
   color:#39c;
   text-decoration:none;
@@ -63,45 +59,15 @@ a:hover small {
     margin-bottom: -2em;
 }
 
-blockquote {
-  border-left:1px solid #e5e5e5;
-  margin:0;
-  padding:0 0 0 20px;
-  font-style:italic;
-}
-
-code, pre {
+pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
   font-size:12px;
-}
-
-pre {
   padding:0px 15px;
   background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
-}
-
-table {
-  width:100%;
-  border-collapse:collapse;
-}
-
-th, td {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
-}
-
-dt {
-  color:#444;
-  font-weight:700;
-}
-
-th {
-  color:#444;
 }
 
 img {
